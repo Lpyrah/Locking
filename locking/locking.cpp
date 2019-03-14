@@ -41,7 +41,7 @@ int main(int argc, char *argv[])
 		billThreads[i].join();
 	}
 
-		
+	cout << "Cake is fucking delicious\n\n";
 		
 
 	cout << "Total: " << bill.total() << "\n";
